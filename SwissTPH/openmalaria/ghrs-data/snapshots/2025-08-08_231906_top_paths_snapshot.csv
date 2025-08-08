@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/SwissTPH/openmalaria,162,48
+/SwissTPH/openmalaria/wiki,64,42
+/SwissTPH/openmalaria/wiki/Changelog,23,11
+/SwissTPH/openmalaria/wiki/SchemaUpdateGuide,22,9
+/SwissTPH/openmalaria/wiki/UserGuide,18,10
+/SwissTPH/openmalaria/releases,18,5
+/SwissTPH/openmalaria/wiki/ModelInterventions,10,7
+/SwissTPH/openmalaria/releases/tag/schema-48.0,7,7
+/SwissTPH/openmalaria/tree/main/model,7,5
+/SwissTPH/openmalaria/blob/schema-48.0/util/example/example_scenario.xml,6,5
